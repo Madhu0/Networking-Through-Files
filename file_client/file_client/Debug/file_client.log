@@ -1,0 +1,12 @@
+﻿  client.c
+c:\users\madhu\documents\visual studio 2013\projects\file_client\file_client\client.c(32): warning C4101: 'ch' : unreferenced local variable
+c:\users\madhu\documents\visual studio 2013\projects\file_client\file_client\client.c(61): warning C4047: 'function' : 'void *(__cdecl *)(void *)' differs in levels of indirection from 'void (__cdecl *)(FILE *)'
+c:\users\madhu\documents\visual studio 2013\projects\file_client\file_client\client.c(61): warning C4022: 'pthread_create' : pointer mismatch for actual parameter 3
+c:\users\madhu\documents\visual studio 2013\projects\file_client\file_client\client.c(63): warning C4047: 'function' : 'void *(__cdecl *)(void *)' differs in levels of indirection from 'void (__cdecl *)(FILE *)'
+c:\users\madhu\documents\visual studio 2013\projects\file_client\file_client\client.c(63): warning C4022: 'pthread_create' : pointer mismatch for actual parameter 3
+c:\users\madhu\documents\visual studio 2013\projects\file_client\file_client\client.c(64): warning C4047: 'function' : 'void **' differs in levels of indirection from 'char *'
+c:\users\madhu\documents\visual studio 2013\projects\file_client\file_client\client.c(64): warning C4022: 'pthread_join' : pointer mismatch for actual parameter 2
+c:\users\madhu\documents\visual studio 2013\projects\file_client\file_client\client.c(65): warning C4047: 'function' : 'void **' differs in levels of indirection from 'char *'
+c:\users\madhu\documents\visual studio 2013\projects\file_client\file_client\client.c(65): warning C4022: 'pthread_join' : pointer mismatch for actual parameter 2
+c:\users\madhu\documents\visual studio 2013\projects\file_client\file_client\client.c(53): warning C4101: 'temp' : unreferenced local variable
+  file_client.vcxproj -> C:\Users\madhu\Documents\Visual Studio 2013\Projects\file_client\Debug\file_client.exe
